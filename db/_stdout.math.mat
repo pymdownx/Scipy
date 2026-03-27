@@ -1,0 +1,321 @@
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX.pool.ltxml...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/Base.pool.ltxml...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/Base_Schema.pool.ltxml... 0.00 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/Base_ParameterTypes.pool.ltxml... 0.01 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/Base_Utility.pool.ltxml... 0.02 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/Base_XMath.pool.ltxml... 0.02 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX_Box.pool.ltxml... 0.01 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX_Character.pool.ltxml... 0.00 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX_Debugging.pool.ltxml... 0.01 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX_FileIO.pool.ltxml... 0.01 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX_Fonts.pool.ltxml... 0.01 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX_Glue.pool.ltxml... 0.00 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX_Hyphenation.pool.ltxml... 0.00 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX_Inserts.pool.ltxml... 0.00 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX_Job.pool.ltxml... 0.01 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX_Kern.pool.ltxml... 0.00 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX_Logic.pool.ltxml... 0.00 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX_Macro.pool.ltxml... 0.00 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX_Marks.pool.ltxml... 0.00 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX_Math.pool.ltxml... 0.02 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX_Page.pool.ltxml... 0.00 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX_Paragraph.pool.ltxml... 0.00 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX_Penalties.pool.ltxml... 0.00 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX_Registers.pool.ltxml... 0.00 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/TeX_Tables.pool.ltxml... 0.01 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/eTeX.pool.ltxml... 0.01 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/pdfTeX.pool.ltxml... 0.01 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/Base_Deprecated.pool.ltxml... 0.04 sec) 0.28 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/plain_bootstrap.pool.ltxml... 0.00 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/plain_dump.pool.ltxml... 0.04 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/plain_constructs.pool.ltxml...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/math_common.pool.ltxml... 0.02 sec) 0.04 sec) 0.37 sec)
+(Loading /opt/ar5iv-bindings/bindings/ar5iv.sty.ltxml...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/latexml.sty.ltxml... 0.02 sec) 0.06 sec)
+latexmlc (LaTeXML version 0.8.8)
+invoked as [/usr/local/bin/latexmlc --whatsin=directory --pmml --mathtex --noinvisibletimes --format=html5 --navigationtoc=context --timeout=540 --css=/static/browse/0.3.4/css/arxiv-html-papers-20260131.css --javascript=/static/browse/0.3.4/js/arxiv-html-papers-20260131.js --source=/arxiv/extracted/7328906 --log=/arxiv/extracted/7328906/html/7328906/__stdout.txt --dest=/arxiv/extracted/7328906/html/7328906/7328906.html --preload=ar5iv.sty --path=/opt/ar5iv-bindings/bindings --path=/opt/ar5iv-bindings/supported_originals]
+processing started Wed Mar  4 23:08:50 2026
+(Digesting TeX main...
+(Processing content /arxiv/extracted/7328906/main.tex...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/LaTeX.pool.ltxml...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/latex_bootstrap.pool.ltxml... 0.00 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/latex_dump.pool.ltxml... 2.19 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/latex_constructs.pool.ltxml...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/plain_constructs.pool.ltxml...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Engine/math_common.pool.ltxml... 0.03 sec) 0.05 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/textcomp.sty.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu... 0.02 sec) 0.46 sec) 0.87 sec) 3.09 sec)
+(Processing content /arxiv/extracted/7328906/_0_vars.tex... 0.01 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/ieeeconf.cls.ltxml...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/IEEEtran.cls.ltxml...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/article.cls.ltxml... 0.03 sec) 0.14 sec) 0.17 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/amsmath.sty.ltxml...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/amsbsy.sty.ltxml...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/amsgen.sty.ltxml... 0.01 sec) 0.06 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/amstext.sty.ltxml... 0.03 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/amsopn.sty.ltxml... 0.03 sec) 0.29 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/amssymb.sty.ltxml...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/amsfonts.sty.ltxml... 0.00 sec) 0.04 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/graphicx.sty.ltxml...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/graphics.sty.ltxml... 0.01 sec) 0.07 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/xcolor.sty.ltxml...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/color.sty.ltxml... 0.02 sec) 0.12 sec)
+(Processing definitions /usr/share/texlive/texmf-dist/tex/latex/seqsplit/seqsplit.sty... 0.01 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/etoolbox.sty.ltxml... 0.34 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/algorithm.sty.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty...
+Info:misdefined:UTF8 input isn't valid under encoding UTF8
+	at algorithm.sty; line 11 col 0 - line 11 col 0
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/float.sty.ltxml... 0.00 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/ifthen.sty.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty... 0.02 sec) 0.03 sec) 0.11 sec) 0.12 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/algpseudocode.sty.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/algorithmicx.sty.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty...
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+ 0.37 sec) 0.40 sec)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+ 2.29 sec) 2.30 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/grffile.sty.ltxml... 0.07 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/wrapfig.sty.ltxml... 0.01 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/epsfig.sty.ltxml... 0.06 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/url.sty.ltxml... 0.00 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/epstopdf.sty.ltxml... 0.01 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/bbm.sty.ltxml... 0.00 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/dsfont.sty.ltxml... 0.00 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/booktabs.sty.ltxml... 0.02 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/listings.sty.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg... 0.01 sec) 0.21 sec)
+(Processing definitions /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty... 2.23 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/microtype.sty.ltxml... 0.08 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/hyperref.sty.ltxml...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/ltxcmds.sty.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty... 0.18 sec) 0.19 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/keyval.sty.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty... 0.02 sec) 0.03 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/kvsetkeys.sty.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty... 0.18 sec) 0.19 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/kvdefinekeys.sty.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty... 0.06 sec) 0.06 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/kvoptions.sty.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty... 0.44 sec) 0.44 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/nameref.sty.ltxml...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/refcount.sty.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/infwarerr.sty.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty... 0.07 sec) 0.08 sec) 0.29 sec) 0.29 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/gettitlestring.sty.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty... 0.77 sec) 0.78 sec) 1.27 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/bitset.sty.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/intcalc.sty.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty... 0.13 sec) 0.13 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/bigintcalc.sty.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/pdftexcmds.sty.ltxml...
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/iftex.sty.ltxml... 0.01 sec) 0.05 sec) 0.44 sec) 0.45 sec) 1.02 sec) 1.04 sec) 3.68 sec)
+(Loading /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml...
+Warning:missing_file:biblatex.sty biblatex.sty is only minimally stubbed and will not be interpreted raw.
+	at biblatex.sty.ltxml; line 14
+	In Core::Gullet[@0x55f32358e480] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 14
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/babel_support.sty.ltxml... 0.01 sec) 0.28 sec)
+(Loading /usr/local/share/perl/5.38.2/LaTeXML/Package/subfig.sty.ltxml... 0.02 sec)
+(Processing content /arxiv/extracted/7328906/_1_maths.tex... 0.03 sec)
+(Processing content /arxiv/extracted/7328906/00_abstract.tex... 0.08 sec)
+(Processing content /arxiv/extracted/7328906/_2_body.tex...
+(Processing content /arxiv/extracted/7328906/01_intro.tex... 0.70 sec)
+(Processing content /arxiv/extracted/7328906/02_preli.tex... 0.93 sec)
+(Processing content /arxiv/extracted/7328906/03_algorithm.tex... 4.96 sec)
+(Processing content /arxiv/extracted/7328906/05_experiments.tex... 3.94 sec)
+(Processing content /arxiv/extracted/7328906/06_discussion.tex... 0.98 sec)
+(Processing content /arxiv/extracted/7328906/07_conclusion.tex... 0.08 sec)
+(Processing content /arxiv/extracted/7328906/08_acknowledge.tex... 0.03 sec) 11.67 sec)
+(Processing content /arxiv/extracted/7328906/main.bbl...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 56 col 0 - line 56 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 98 col 0 - line 98 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 137 col 0 - line 137 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 178 col 0 - line 178 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 219 col 0 - line 219 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 261 col 0 - line 261 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Info:undefined:Encountered unknown KeyVals key 
+	at 'prefix' with prefix 'KV' not defined in 'BiblatexAuthor', were you perhaps using \setkeys instead of \setkeys*?
+Info:undefined:Encountered unknown KeyVals key 
+	at 'prefix' with prefix 'KV' not defined in 'BiblatexAuthor', were you perhaps using \setkeys instead of \setkeys*?
+Info:undefined:Encountered unknown KeyVals key 
+	at 'prefixi' with prefix 'KV' not defined in 'BiblatexAuthor', were you perhaps using \setkeys instead of \setkeys*?
+Info:undefined:Encountered unknown KeyVals key 
+	at 'prefixi' with prefix 'KV' not defined in 'BiblatexAuthor', were you perhaps using \setkeys instead of \setkeys*?
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 274 col 0 - line 274 col 7
+	In Core::Definition::Expandable[\name {}... /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 340
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 295 col 0 - line 295 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 324 col 0 - line 324 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 358 col 0 - line 358 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 382 col 0 - line 382 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 405 col 0 - line 405 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 429 col 0 - line 429 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 468 col 0 - line 468 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 511 col 0 - line 511 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 557 col 0 - line 557 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 597 col 0 - line 597 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 634 col 0 - line 634 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 677 col 0 - line 677 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 718 col 0 - line 718 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 724 col 0 - line 724 col 7
+	In Core::Definition::Expandable[\name {}... /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 340
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 748 col 0 - line 748 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 754 col 0 - line 754 col 7
+	In Core::Definition::Expandable[\name {}... /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 340
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 775 col 0 - line 775 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Info:undefined:Encountered unknown KeyVals key 
+	at 'prefix' with prefix 'KV' not defined in 'BiblatexAuthor', were you perhaps using \setkeys instead of \setkeys*?
+Info:undefined:Encountered unknown KeyVals key 
+	at 'prefix' with prefix 'KV' not defined in 'BiblatexAuthor', were you perhaps using \setkeys instead of \setkeys*?
+Info:undefined:Encountered unknown KeyVals key 
+	at 'prefixi' with prefix 'KV' not defined in 'BiblatexAuthor', were you perhaps using \setkeys instead of \setkeys*?
+Info:undefined:Encountered unknown KeyVals key 
+	at 'prefixi' with prefix 'KV' not defined in 'BiblatexAuthor', were you perhaps using \setkeys instead of \setkeys*?
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 805 col 0 - line 805 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 829 col 0 - line 829 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 865 col 0 - line 865 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 908 col 0 - line 908 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 944 col 0 - line 944 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 1004 col 0 - line 1004 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 1036 col 0 - line 1036 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 1083 col 0 - line 1083 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 1117 col 0 - line 1117 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+Error:misdefined: Expected a Token, got undef
+	at main.bbl; line 1159 col 0 - line 1159 col 13
+	In Core::Definition::Expandable[\endentry] /opt/ar5iv-bindings/bindings/biblatex.sty.ltxml; line 263
+	 <= Core::Gullet[@0x55f32358e480] <= Core::Stomach[@0x55f323576960] <= ...
+ 1.37 sec) 28.51 sec) 28.54 sec)
+(Building...
+(Loading compiled schema /usr/local/share/perl/5.38.2/LaTeXML/resources/RelaxNG/LaTeXML.model... 0.03 sec) 21.22 sec)
+(Rewriting... 0.04 sec)
+(Math Parsing 89 formulae ...... 0.48 sec)
+Math parsing succeeded:
+   ltx:XMath: 89/89
+   ltx:XMArg: 1/1
+Symbols assumed as simple identifiers (with # of occurences):
+   'E{OML italic}' (1), 'F{OML italic}' (1), 'R{blackboard}' (1), 'S{OML italic}' (1), 'mean' (2), 'q{OML italic}' (2), 'std' (2), 'â€“' (2)
+Set MATHPARSER_SPECULATE to speculate on possible notations.
+(Finalizing... 0.42 sec)
+Conversion complete: 1 warning; 34 errors (See /arxiv/extracted/7328906/html/7328906/__stdout.txt)
+(post-processing...
+(Scan 7328906.html processing...
+Scan: DBStatus: 2216/0 objects
+ 0.51 sec)
+(MakeBibliography 7328906.html processing... 0.00 sec)
+(CrossRef 7328906.html processing... 0.32 sec)
+(Graphics 7328906.html 4 to process... 2.06 sec)
+(MathML::Presentation[w/TeXMath] 7328906.html 89 to process...
+converted 89 Maths
+ 0.14 sec)
+(XSLT[using LaTeXML-html5.xsl] 7328906.html processing...
+Warning:missing_file:/static/browse/0.3.4/css/arxiv-html-papers-20260131.css Couldn't find resource file /static/browse/0.3.4/css/arxiv-html-papers-20260131.css in paths /arxiv,/opt/ar5iv-bindings/bindings,/opt/ar5iv-bindings/supported_originals,/arxiv/extracted/7328906,/arxiv,/arxiv/extracted/7328906,/opt/ar5iv-bindings/supported_originals,/opt/ar5iv-bindings/bindings,/arxiv,.,/arxiv,/opt/ar5iv-bindings/bindings,/opt/ar5iv-bindings/supported_originals,/arxiv/extracted/7328906,/arxiv
+	at Post::XSLT[@0x55f3316e8390]
+	In Post::XSLT[@0x55f3316e8390] ->copyResource
+Warning:missing_file:/static/browse/0.3.4/js/arxiv-html-papers-20260131.js Couldn't find resource file /static/browse/0.3.4/js/arxiv-html-papers-20260131.js in paths /arxiv,/opt/ar5iv-bindings/bindings,/opt/ar5iv-bindings/supported_originals,/arxiv/extracted/7328906,/arxiv,/arxiv/extracted/7328906,/opt/ar5iv-bindings/supported_originals,/opt/ar5iv-bindings/bindings,/arxiv,.,/arxiv,/opt/ar5iv-bindings/bindings,/opt/ar5iv-bindings/supported_originals,/arxiv/extracted/7328906,/arxiv
+	at Post::XSLT[@0x55f3316e8390]
+	In Post::XSLT[@0x55f3316e8390] ->copyResource
+ 0.30 sec)
+(Writer 7328906.html processing... 0.01 sec) 3.34 sec)
+Post-processing complete: 2 warnings (See /arxiv/extracted/7328906/html/7328906/__stdout.txt)
+processing finished Wed Mar  4 23:09:45 2026
+Status:conversion:2
